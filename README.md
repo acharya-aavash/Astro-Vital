@@ -1,15 +1,15 @@
-# 🚀 ASTRO-VITAL
+#  ASTRO-VITAL
 
 > **Your health. Your mission. Your future.**
 > *Presented by Team Xenon (Hardik Adhikari & Aavash Acharya)*
 
 
-## 🌟 Introduction
+##  Introduction
 
 Imagine being millions of miles from home, feeling unwell, and unable to talk to a doctor in real time. On long missions to the Moon, Mars, and beyond, this is the reality astronauts will face. **ASTRO-VITAL** is a crew-first health companion built for exactly that moment. It helps astronauts monitor their health, understand what their body is telling them, and know what to do next, while keeping every recommendation medically safe.
 
 
-## 🌍 The Problem
+##  The Problem
 
 On long missions far from Earth, messages to the ground can take up to 20 minutes each way.
 
@@ -18,7 +18,7 @@ On long missions far from Earth, messages to the ground can take up to 20 minute
 * **Compounding Hazards:** Long-duration spaceflight exposes crews to interconnected risks—such as microgravity, radiation, isolation, and closed habitat stressors—that build up quietly over time.
 
 
-## 💡 Our Solution
+##  Our Solution
 
 ASTRO-VITAL bridges this operational gap by turning complicated health data into simple status indicators, safe advice, and easy daily habits.
 
@@ -27,7 +27,7 @@ ASTRO-VITAL bridges this operational gap by turning complicated health data into
 * **Strict Clinical Boundaries:** Informs and escalates safely; it **never diagnoses** or replaces medical professionals.
 
 
-## ✨ Key Features
+##  Key Features
 
 * **5 Health Systems Tracked:** Comprehensive coverage of *Immunity*, *Bones & Muscles*, *Heart & Circulation*, *Mind & Mood*, and *Sleep & Energy*.
 * **Separated Data Streams:** Keeps subjective feelings and objective measurements distinct so reports are never mixed up with telemetry.
@@ -50,7 +50,7 @@ $$\text{🟢 Nominal} \rightarrow \text{🟡 Watch} \rightarrow \text{🟠 Cauti
 4. **Closed Habitat:** Assists in managing shared air, limited resources, and daily routines.
 
 
-## 🎯 Our Principles
+##  Our Principles
 
 * **Crew-First:** Built specifically for the person experiencing the symptoms.
 * **Medically Safe:** Informs and escalates without diagnosing or prescribing.
@@ -58,7 +58,7 @@ $$\text{🟢 Nominal} \rightarrow \text{🟡 Watch} \rightarrow \text{🟠 Cauti
 * **Quick:** Daily check-ins are designed to be fast and frictionless.
 
 
-## 🌟 Why It Matters
+##  Why It Matters
 
 As humanity prepares for deep-space exploration, crew health can decide the success of a mission. ASTRO-VITAL gives astronauts ownership of their well-being, turning complex signals into simple daily habits that keep crews safe, connected, and mission-ready.
 
@@ -67,7 +67,7 @@ Long-duration space travel will ask astronauts to be more self-reliant than ever
 ASTRO-VITAL meets that need. It tracks five key health systems, compares each check-in to the astronaut’s own baseline, and turns complex signals into clear status levels, safe guidance, and simple daily habits. When something is serious, it escalates straight to the flight surgeon. It never diagnoses or prescribes, and it protects crew privacy by design.
 By helping astronauts notice small changes early, act safely, and stay motivated, ASTRO-VITAL supports what every mission depends on: a healthy, connected, and mission-ready crew.
 
-## 📚 References & Disclosures
+##  References & Disclosures
 
 1. **NASA Human Research Program:** Ongoing crew health research (`nasa.gov/hrp/ongoing-hrp-research`).
 2. **Canadian Space Agency:** ISS Health and Life Sciences research (`asc-csa.gc.ca` — ISS AO 2026).
