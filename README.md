@@ -42,7 +42,7 @@ $$\text{🟢 Nominal} \rightarrow \text{🟡 Watch} \rightarrow \text{🟠 Cauti
 * **Privacy by Design:** Data remains entirely local and private, shared only when escalation requires it.
 
 
-## 🛰️ Space Hazards We Help With
+##  Space Hazards We Help With
 
 1. **Microgravity:** Helps counter bone density loss, muscle wasting, and cardiovascular/fluid shifts.
 2. **Radiation:** Keeps long-term exposure and solar storm risks visible.
