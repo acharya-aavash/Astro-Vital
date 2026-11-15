@@ -1,9 +1,14 @@
 #  ASTRO-VITAL
 
 > **Your health. Your mission. Your future.**
-> *Presented by Team Xenon (Hardik Adhikari & Aavash Acharya)*
+> *Presented by Team Xenon (Aavash Acharya & Hardik Adhikari)*
 
 
+## Requirements
+- Python 3.8 or newer
+- Tkinter (generally included with Python on Windows and macOS)
+
+ 
 ##  Introduction
 
 Imagine being millions of miles from home, feeling unwell, and unable to talk to a doctor in real time. On long missions to the Moon, Mars, and beyond, this is the reality astronauts will face. **ASTRO-VITAL** is a crew-first health companion built for exactly that moment. It helps astronauts monitor their health, understand what their body is telling them, and know what to do next, while keeping every recommendation medically safe.
